@@ -24,7 +24,14 @@ Paste a YouTube link and get:
 
 ## Tech Stack
 
-Python, Streamlit, LangChain, Groq (LLM), ChromaDB, Hugging Face Transformers, sentence-transformers, PyTorch
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
+![Groq](https://img.shields.io/badge/Groq-LLM-orange)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-purple)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-DistilBERT-EE4C2C?logo=pytorch&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-Embeddings-lightgrey)
 
 ## Project Structure
 
