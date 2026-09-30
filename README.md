@@ -1,4 +1,5 @@
 # 🎬 AI-Powered Social Media Content Analyzer
+**Live Demo:**[https://social-content-analyzer-mubhuafw2pwump2gwtjatd.streamlit.app/]
 
 An AI-powered analysis tool for YouTube videos — get an AI summary, sentiment breakdown, viral potential score, and a Q&A assistant, all in one Streamlit app.
 
