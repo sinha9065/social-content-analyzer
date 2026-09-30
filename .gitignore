@@ -1,0 +1,32 @@
+# Environment variables (API keys - never commit these)
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Python cache files (auto-generated when code runs)
+__pycache__/
+*.pyc
+*.pyo
+
+# Vector store / RAG database files (can get large, keep local only)
+chroma_db/
+*.sqlite3
+
+# Streamlit cache
+.streamlit/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints (if used for experimentation)
+.ipynb_checkpoints/
+
+# Logs
+*.log

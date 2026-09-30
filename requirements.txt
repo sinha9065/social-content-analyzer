@@ -1,0 +1,30 @@
+# ============================================================
+# IMPORTANT: install torch FIRST, before this file, using:
+#   pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
+# (the CPU build avoids a common Windows DLL error with the
+# default PyPI torch package - see README for details)
+# ============================================================
+
+# Frontend
+streamlit==1.38.0
+
+# For extracting YouTube transcripts
+youtube-transcript-api>=1.0.0
+
+# LangChain and LLM connection (using Groq)
+langchain==0.3.0
+langchain-groq==0.2.0
+langchain-community==0.3.0
+langchain-text-splitters==0.3.0
+
+# Vector database (for Q&A / RAG)
+chromadb==0.5.5
+
+# For generating embeddings
+sentence-transformers==3.0.1
+
+# Sentiment analysis (Hugging Face model) - needs torch, installed separately above
+transformers==4.44.0
+
+# For loading environment variables
+python-dotenv==1.0.1
