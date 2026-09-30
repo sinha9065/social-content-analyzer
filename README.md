@@ -1,5 +1,4 @@
 # 🎬 AI-Powered Social Media Content Analyzer
-**Live Demo:**[https://social-content-analyzer-mubhuafw2pwump2gwtjatd.streamlit.app/]
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
