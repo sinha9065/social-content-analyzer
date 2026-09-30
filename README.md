@@ -1,6 +1,16 @@
 # 🎬 AI-Powered Social Media Content Analyzer
 **Live Demo:**[https://social-content-analyzer-mubhuafw2pwump2gwtjatd.streamlit.app/]
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
+![Groq](https://img.shields.io/badge/Groq-LLM-orange)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-purple)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-DistilBERT-EE4C2C?logo=pytorch&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-Embeddings-lightgrey)
+
+
 An AI-powered analysis tool for YouTube videos — get an AI summary, sentiment breakdown, viral potential score, and a Q&A assistant, all in one Streamlit app.
 
 Paste a YouTube link and get:
@@ -21,17 +31,6 @@ Paste a YouTube link and get:
 | Virality score | A rule-based scoring model combining video length, hook strength (LLM-scored), and trending-audio use |
 | Q&A (RAG) | The transcript is chunked, embedded, and stored in ChromaDB; questions are answered strictly from the retrieved transcript context, so the assistant says so instead of guessing when the answer isn't in the video |
 | Translation | The summary can be translated into Hindi, Hinglish, Spanish, French, Tamil, and more |
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
-![Groq](https://img.shields.io/badge/Groq-LLM-orange)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-purple)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-DistilBERT-EE4C2C?logo=pytorch&logoColor=white)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-Embeddings-lightgrey)
 
 ## Project Structure
 
